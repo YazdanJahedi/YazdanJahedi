@@ -19,4 +19,4 @@ I'm Yazdan
 
 About me:
 * I'm currently studying at Shahid Beheshti University, Tehran, Iran.
-* How to contact me: via (mail)[yzdn.jt@gmail.com]
+* How to contact me: via [mail](yzdn.jt@gmail.com)
